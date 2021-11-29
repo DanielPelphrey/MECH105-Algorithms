@@ -1,3 +1,3 @@
 # MECH105-Algorithms
-Numerical method algorithms created using MATLAB at Colorado State University
+Numerical method algorithms created while at Colorado State University
 

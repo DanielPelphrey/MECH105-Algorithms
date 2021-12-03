@@ -1,0 +1,2 @@
+This is a code that will take any square matrix and break it up into a lower triangular matrix, an upper
+triangular matrix, and a P matrix.  This is very useful for solving systems of linear equations.

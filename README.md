@@ -4,3 +4,4 @@ I created the following numerical method algorithms created using MATLAB while s
 * False Position
 * LUfactor
 * Simpson
+* Secant Method

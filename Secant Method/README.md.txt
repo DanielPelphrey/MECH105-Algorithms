@@ -1,0 +1,1 @@
+This is a code that uses the modified secant method to find the roots of a fuction.
